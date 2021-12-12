@@ -10,7 +10,7 @@
 #FOR 5/6 DIGITS IT WILL GIVE YOU THE REPEATING NO
 
 #BY HARSH THAKUR
-#EMAIL : THAKURHARSH4111@GMAIL.COM
+
 
 from PyQt5.QtWidgets import *
 from PyQt5 import QtGui
@@ -18,7 +18,7 @@ from PyQt5 import QtCore
 from PyQt5 import QtWidgets
 
 __version__ = '0.1'
-__author__ = 'HARSH TAHKUR : thakurharsh4111@gmail.com'
+__author__ = 'HARSH TAHKUR"
 
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
